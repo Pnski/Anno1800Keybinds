@@ -5,7 +5,7 @@
   1600000040 | Keybinds_Nyk | 0.0.1 | Keybind Description - StopCurrentFestival+StartNew-->
   <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
     <Item>
-      <KeyTypes>Shift;4</KeyTypes>
+      <KeyTypes>Shift;F4</KeyTypes>
       <Text>1600000037</Text>
       <Command>ts.Cheat.GlobalCheats.ToggleUpgradeCheck()</Command>
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
@@ -18,7 +18,7 @@
   </ModOp>
   <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
     <Item>
-      <KeyTypes>Shift;5</KeyTypes>
+      <KeyTypes>Shift;F5</KeyTypes>
       <Text>1600000038</Text>
       <Command>ts.Cheat.GlobalCheats.ToggleIgnoreBuildingCosts()</Command>
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
@@ -31,7 +31,7 @@
   </ModOp>
   <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
     <Item>
-      <KeyTypes>Shift;6</KeyTypes>
+      <KeyTypes>Shift;F6</KeyTypes>
       <Text>1600000039</Text>
       <Command>ts.Economy.MetaStorage.AddAmount(1010017, 1000000)</Command>
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
@@ -44,7 +44,7 @@
   </ModOp>
   <ModOp Type="add" GUID='2001271' Path="/Values/GUIConfig/KeyBindings">
     <Item>
-      <KeyTypes>Shift;7</KeyTypes>
+      <KeyTypes>Shift;F7</KeyTypes>
       <Text>1600000040</Text>
       <Command>ts.AreaManager.AreaFestival.SetStopFestival() ts.AreaManager.AreaFestival.SetTriggerFestival()</Command>
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
