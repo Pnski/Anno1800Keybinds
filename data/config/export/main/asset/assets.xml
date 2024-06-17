@@ -11,8 +11,8 @@
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
       <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
       <AudioEvent>200634</AudioEvent>
-      <Configurable>0</Configurable>
-      <HideInOptionMenu>1</HideInOptionMenu>
+      <Configurable>1</Configurable>
+      <HideInOptionMenu>0</HideInOptionMenu>
       <AllowMultipleShortcuts>1</AllowMultipleShortcuts>
     </Item>
   </ModOp>
@@ -24,8 +24,8 @@
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
       <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
       <AudioEvent>200634</AudioEvent>
-      <Configurable>0</Configurable>
-      <HideInOptionMenu>1</HideInOptionMenu>
+      <Configurable>1</Configurable>
+      <HideInOptionMenu>0</HideInOptionMenu>
       <AllowMultipleShortcuts>1</AllowMultipleShortcuts>
     </Item>
   </ModOp>
@@ -37,8 +37,8 @@
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
       <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
       <AudioEvent>200634</AudioEvent>
-      <Configurable>0</Configurable>
-      <HideInOptionMenu>1</HideInOptionMenu>
+      <Configurable>1</Configurable>
+      <HideInOptionMenu>0</HideInOptionMenu>
       <AllowMultipleShortcuts>1</AllowMultipleShortcuts>
     </Item>
   </ModOp>
@@ -50,8 +50,8 @@
       <Active>Session;WorldMap;Menu;Pause;Popup</Active>
       <AvailableOnPlatforms>PC;Xbox;PS;Stadia</AvailableOnPlatforms>
       <AudioEvent>200634</AudioEvent>
-      <Configurable>0</Configurable>
-      <HideInOptionMenu>1</HideInOptionMenu>
+      <Configurable>1</Configurable>
+      <HideInOptionMenu>0</HideInOptionMenu>
       <AllowMultipleShortcuts>1</AllowMultipleShortcuts>
     </Item>
   </ModOp>
