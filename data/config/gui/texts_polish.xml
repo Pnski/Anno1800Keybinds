@@ -16,5 +16,13 @@
       <GUID>1600000040</GUID>
       <Text>StopCurFest+StartNew</Text>
     </Text>
+    <Text>
+      <GUID>1600000041</GUID>
+      <Text>Increase Workforce by 500</Text>
+    </Text>
+    <Text>
+      <GUID>1600000042</GUID>
+      <Text>Decrease Workforce by 500</Text>
+    </Text>
   </ModOp>
 </ModOps>
